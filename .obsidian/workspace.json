@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "31dcb11cdbb05658",
+    "type": "split",
+    "children": [
+      {
+        "id": "45657b2f9e899cf5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b0969e70013f1f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Нейронные сети в обработке изображений/L1-метрика.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "81555cca30064639",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Нейронные сети в обработке изображений/метод k ближайших соседей.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3aab018dde822d7c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "71f72ddbc05b72d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Нейронные сети в обработке изображений/L2-метрика.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "042b2cfeb950d42e",
+    "type": "split",
+    "children": [
+      {
+        "id": "57fee4c14cbac9df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c3d2e1d2eca71c6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a5d6a1c6bfeeea76",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "67dd83e6dafe2fd0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "e342a4c8707c79a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd6e7da4af425ec4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52afc7942ef9e9d4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "30fa8fb011f8a0ed",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ebddf604ca8302a2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "eb182b25c3fadb14",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "3aab018dde822d7c",
+  "lastOpenFiles": [
+    "Нейронные сети в обработке изображений/Cosine similarity.md",
+    "Нейронные сети в обработке изображений/метод k ближайших соседей.md",
+    "Нейронные сети в обработке изображений/L2-метрика.md",
+    "Нейронные сети в обработке изображений/L1-метрика.md",
+    "Нейронные сети в обработке изображений/Лекции/Лекция 1.md",
+    "Нейронные сети в обработке изображений/Лекции",
+    "Нейронные сети в обработке изображений/Мера качества(метрика).md",
+    "Нейронные сети в обработке изображений/Логистическая регрессия.md",
+    "Нейронные сети в обработке изображений/Регресиия.md",
+    "Нейронные сети в обработке изображений/Линейная регрессия.md",
+    "Нейронные сети в обработке изображений/Instance-base learning.md",
+    "Нейронные сети в обработке изображений/Deep learning.md",
+    "Нейронные сети в обработке изображений/Active learning.md",
+    "Нейронные сети в обработке изображений/Регрессия.md",
+    "Нейронные сети в обработке изображений/Supervised learning.md",
+    "Нейронные сети в обработке изображений/Shallow learning.md",
+    "Нейронные сети в обработке изображений/Model-based learning.md",
+    "Нейронные сети в обработке изображений/Reinforcement learning.md",
+    "Нейронные сети в обработке изображений/Гиперпараметры.md",
+    "Нейронные сети в обработке изображений/Емкость(capacity) модели.md",
+    "Нейронные сети в обработке изображений/Опыт.md",
+    "Нейронные сети в обработке изображений/Класс задач.md",
+    "Нейронные сети в обработке изображений/Pasted image 20240910172935.png",
+    "Нейронные сети в обработке изображений/Классификация.md",
+    "Нейронные сети в обработке изображений/Параметры.md",
+    "Нейронные сети в обработке изображений/Unsupervised learning.md",
+    "Нейронные сети в обработке изображений/Pasted image 20240910165005.png",
+    "Нейронные сети в обработке изображений/Semi-supervised learning.md",
+    "Нейронные сети в обработке изображений/Weakly supervised learning.md",
+    "Нейронные сети в обработке изображений"
+  ]
+}
